@@ -95,3 +95,12 @@ body {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.88);
 }
+.main__address-title {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    color: rgba(0, 0, 0, 0.88);;
+}

@@ -1,6 +1,7 @@
 # homedekorkrd
-website stub
-Это мой первый полноценный вёрстка, не судите строго)
+
+
+Это моя первая полноценная вёрстка, не судите строго)
 This is my first full-fledged layout, don't judge strictly)
 
 Буду рад отзывам и коментариям!

@@ -40,6 +40,7 @@ body {
     position: absolute;
     width: 900px;
     height: 349px;
+    padding: 0 15px 0 15px;
     top: -20px;
     
 }
@@ -55,6 +56,7 @@ body {
 .main .main__wrapper {
     display: flex;
     margin: 331px auto;
+    padding: 0 15px 0 15px;
     justify-content: space-between;
     min-width: 200px;
 }

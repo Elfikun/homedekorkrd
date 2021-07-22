@@ -18,6 +18,7 @@ body {
 .logo .logo__img {
     display: block;
     margin: 0 auto;
+    padding-top: 25px;
     width: 900px;
     height: 300px;
 }
@@ -167,3 +168,4 @@ body {
     font-feature-settings: 'pnum' on, 'onum' on;
     color: #000000;
 }
+/* Не судите строго это мой первый код */
